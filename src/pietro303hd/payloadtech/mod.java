@@ -2,7 +2,7 @@ package pietro303hd.payloadtech;
 
 import mindustry.mod.Mod;
 
-public class ModTemplate extends Mod{
+public class PayloadTech extends Mod{
 
     @Override
     public void init(){
