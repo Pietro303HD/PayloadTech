@@ -1,11 +1,10 @@
 {
-  "name": "modtemplate",
-  "displayName": "Template",
-  "author": "[#8738ff[]]Sonnicon[[]]",
+  "name": "payloadtech",
+  "displayName": "Payload Tech",
+  "author": "Pietro303HD",
   "description": "Gradle jar Mindustry mod template",
   "version": "0",
-  "main": "sonnicon.modtemplate.ModTemplate",
-  "minGameVersion": "105",
+  "main": "pietro303hd.payloadtech.mod",
   "dependencies": [],
   "hidden": false,
   "java": true
